@@ -246,7 +246,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 * **Date/Time Functions:** Extracting specific time components (`EXTRACT`, `TO_CHAR`) for trend analysis.
 
 ## How to Use
-1. **Clone the Repo:** `git clone https://github.com/your-username/retail-sales-sql.git`
+1. **Clone the Repo:** `git clone https://github.com/ahmed4170/SQL_Retail_Sales_Project`
 2. **Import Data:** Use the provided SQL script to create the table and import the raw `.csv` data.
 3. **Execute Analysis:** Run the analysis queries to replicate the findings or customize them for further exploration.
 
